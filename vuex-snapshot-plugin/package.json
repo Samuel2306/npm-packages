@@ -1,0 +1,18 @@
+{
+  "name": "vuex-snapshot-plugin",
+  "version": "1.0.0",
+  "description": "This is a plug-in based on vuex.It is used to provide state snapshots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "vuex-plugins",
+    "store",
+    "snapshot"
+  ],
+  "author": "Samuel Shen",
+  "license": "ISC"
+}
